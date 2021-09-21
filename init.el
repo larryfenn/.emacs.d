@@ -61,8 +61,10 @@
 (setq inhibit-startup-message t)
 ;; cl is deprecated but we want to hide the warning
 (setq byte-compile-warnings '(cl-functions))
+;; mac only
+(setq mac-command-modifier 'meta)
 
-(add-to-list 'default-frame-alist '(font . "FiraCode Nerd Font-10.0"))
+(add-to-list 'default-frame-alist '(font . "FiraCode Nerd Font-12.0"))
 
 (add-to-list 'load-path "~/.emacs.d/custom")
 (load "0setup.elc")
