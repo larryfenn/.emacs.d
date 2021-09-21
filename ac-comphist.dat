@@ -1,0 +1,286 @@
+((("transfer" .
+   [2 0 0 0 0 0 0 0])
+  ("prevue" .
+   [1 0 0 0 0 0])
+  ("killings" .
+   [1 0 0 0 0 0 0 0])
+  ("server" .
+   [1 0 0 0 0 0])
+  ("for" .
+   [1 0 0])
+  ("was" .
+   [1 0 0])
+  ("actually" .
+   [1 0 0 0 0 0 0 0])
+  ("really" .
+   [1 0 0 0 0 0])
+  ("albedo" .
+   [1 0 0 0 0 0])
+  ("earth" .
+   [3 0 0 0 0])
+  ("uploading" .
+   [0 0 1 0 0 0 0 0 0])
+  ("chronomancer" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("check" .
+   [2 0 0 0 0])
+  ("Wednesday" .
+   [0 0 0 0 0 0 0 0 1])
+  ("this" .
+   [1 0 0 0])
+  ("Unemployment" .
+   [0 0 0 0 0 0 0 0 0 0 0 1])
+  ("Tracker" .
+   [1 0 0 0 0 0 0])
+  ("COVID-19" .
+   [1 0 0 0 0 0 0 0])
+  ("CONFIG_INGAME" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("Hurricane" .
+   [1 0 0 0 0 0 0 0 0])
+  ("COVID" .
+   [4 0 0 0 0])
+  ("Talked" .
+   [1 0 0 0 0 0])
+  ("PPE" .
+   [1 0 0])
+  ("housing" .
+   [1 0 0 0 0 0 0])
+  ("expensive" .
+   [1 0 0 0 0 0 0 0 0])
+  ("will" .
+   [1 0 0 0])
+  ("available." .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("index" .
+   [2 0 0 0 0])
+  ("larger" .
+   [1 0 0 0 0 0])
+  ("areas" .
+   [1 0 0 0 0])
+  ("Larry" .
+   [2 0 0 0 0])
+  ("but" .
+   [1 0 0])
+  ("data." .
+   [1 0 0 0 0])
+  ("Nicky" .
+   [1 0 0 0 0])
+  ("meet" .
+   [1 0 0 0])
+  ("project" .
+   [5 0 0 0 0 0 0])
+  ("yesterday" .
+   [1 0 0 0 0 0 0 0 0])
+  ("data" .
+   [8 0 0 0])
+  ("stuff" .
+   [2 0 0 0 0])
+  ("and" .
+   [2 0 0])
+  ("about" .
+   [3 0 0 0 0])
+  ("with" .
+   [3 0 0 0])
+  ("Camille" .
+   [1 0 0 0 0 0 0])
+  ("tertiary_override" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("town_eligibility_townbldg" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("Print" .
+   [4 0 0 0 0])
+  ("DiagnosticTileMap" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("debug_level" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("procindustry_list" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("rawindustry_list" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("null" .
+   [3 0 0 0])
+  ("foreach" .
+   [1 0 0 0 0 0 0])
+  ("tertiaryindustry_list" .
+   [4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("len" .
+   [10 0 0])
+  ("exhausted_list" .
+   [13 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("false" .
+   [1 0 0 0 0])
+  ("TownBuildMethod" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("proc_industry_min" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("raw_industry_min" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("build" .
+   [3 0 0 0 0])
+  ("exhaustion_flag" .
+   [10 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("tertiary_industry_min" .
+   [3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("build_counter" .
+   [14 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("local" .
+   [1 0 0 0 0])
+  ("ind_id" .
+   [9 0 0 0 0 0])
+  ("SetValue" .
+   [1 0 0 0 0 0 0 0])
+  ("industry_classes" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("ind_name" .
+   [4 0 0 0 0 0 0 0])
+  ("InArray" .
+   [4 0 0 0 0 0 0])
+  ("skip_industries" .
+   [5 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("load-file" .
+   [2 0 0 0 0 0 0 0 0])
+  ("setq" .
+   [2 0 0 0])
+  ("TeX" .
+   [1 0 0])
+  ("TeX-auto-save" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("TeX-parse-self" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("setq-default" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("TeX-master" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("nil" .
+   [1 0 0])
+  ("Atlantic" .
+   [1 0 0 0 0 0 0 0])
+  ("Branch*" .
+   [1 0 0 0 0 0 2])
+  ("City*" .
+   [0 0 0 0 1])
+  ("Lakewood" .
+   [1 0 0 0 0 0 0 0])
+  ("Lakehurst" .
+   [1 0 0 0 0 0 0 0 0])
+  ("Long" .
+   [1 0 0 0])
+  ("Marlboro" .
+   [1 0 0 0 0 0 0 0])
+  ("Staten" .
+   [2 0 0 0 0 0])
+  ("Island" .
+   [2 0 0 0 0 0])
+  ("Newark" .
+   [2 0 0 0 0 0])
+  ("City" .
+   [2 0 0 0])
+  ("Elizabeth" .
+   [1 0 0 0 0 0 0 0 0])
+  ("Jersey" .
+   [1 0 0 0 0 0])
+  ("Plumstead" .
+   [0 0 0 0 0 0 0 0 1])
+  ("maint" .
+   [1 0 0 0 0])
+  ("cost" .
+   [1 0 0 0])
+  ("the" .
+   [4 0 0])
+  ("land_tiles" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("shore_tiles" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("water_tiles" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("nondesert_tiles" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("nonsnow_tiles" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("terrain_tiles" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("eligible_tiles" .
+   [5 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("GSBase" .
+   [18 0 0 0 0 0])
+  ("RandItem" .
+   [11 0 0 0 0 0 0 0])
+  ("Sort" .
+   [6 0 0 0])
+  ("RemoveTop" .
+   [2 0 0 0 0 0 0 0 0])
+  ("eligible_towns" .
+   [3 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("GSList" .
+   [12 0 0 0 0 0])
+  ("SORT_BY_VALUE" .
+   [3 0 0 0 1 1 0 0 0 0 0 0 0])
+  ("SORT_ASCENDING" .
+   [3 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("town_id" .
+   [1 0 0 0 0 0 0])
+  ("cluster_zone" .
+   [3 0 0 0 0 0 0 0 0 0 0 0])
+  ("outer_town_tiles" .
+   [3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("Valuate" .
+   [8 0 0 0 0 0 0])
+  ("town_tiles" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("cluster_eligibility_water" .
+   [3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("cluster_eligibility_nondesert" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("cluster_eligibility_nonsnow" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("cluster_eligibility_nonsnowdesert" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("cluster_eligibility_land" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("Add" .
+   [5 0 0])
+  ("comparisons" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("countries" .
+   [1 0 0 0 0 0 0 0 0])
+  ("stuff." .
+   [2 0 0 0 0 0])
+  ("Looking" .
+   [3 0 0 0 0 0 0])
+  ("like" .
+   [2 0 0 0])
+  ("voter" .
+   [1 0 0 0 0])
+  ("file" .
+   [1 0 0 0])
+  ("Visual" .
+   [1 0 0 0 0 0])
+  ("election" .
+   [1 0 0 0 0 0 0 0])
+  ("send" .
+   [1 0 0 0])
+  ("deaths" .
+   [1 0 0 0 0 0])
+  ("user" .
+   [2 0 0 0])
+  ("datakit" .
+   [4 0 0 0 0 0 0])
+  ("gitlab" .
+   [1 0 0 0 0 0])
+  ("off" .
+   [3 0 0])
+  ("how" .
+   [1 0 0])
+  ("border" .
+   [1 0 0 0 0 0])
+  ("look" .
+   [1 0 0 0])
+  ("SPI" .
+   [1 0 0])
+  ("pins" .
+   [1 0 0 0])
+  ("pinMode" .
+   [1 0 0 0 0 0 0])
+  ("hlinum" .
+   [1 0 0 0 0 0])))
